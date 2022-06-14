@@ -2,6 +2,9 @@
 This is the assignment-1 for Javascript Internship, which is given by [DeepThought](https://deepthought.education/dtselection).<br>
 In this project I have to deign a site by figma template using HTML and CSS.<br>
 So I use this [template](https://www.figma.com/file/EWmzcVkd7qbP5Nf7iMvuqP/Trafalgar-Landing-Page) for completion of assignment.<br>
+
+### Technology used
+HTML , CSS ,Tailwind CSS, Bootstap and Javascript
   
 ### Task Detail
 All the information related to task is [here](https://docs.google.com/spreadsheets/d/1YO4RAMfjMTDeaez2m5rsFuZcgr0eFLsr-4Fzi18-58c)
